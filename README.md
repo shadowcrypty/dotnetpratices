@@ -1,2 +1,0 @@
-# dotnetpratices
-dotnetpratices
